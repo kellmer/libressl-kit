@@ -1,0 +1,4 @@
+[libressl-kit]
+location = /var/git/meta-repo/kits/libressl-kit
+auto-sync = no
+priority = 50
